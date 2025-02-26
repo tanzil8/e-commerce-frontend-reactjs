@@ -1,12 +1,14 @@
 import React from 'react'
-import Navbar from './component.js/Navbar'
+import Navbar from './component/Navbar'
+
 
 
 const App = () => {
   return (
    <>
-   hsdasd
+ 
    <Navbar/>
+  
    </>
   )
 }
